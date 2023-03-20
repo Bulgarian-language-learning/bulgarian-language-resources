@@ -1,1 +1,1 @@
-# bulgarian-language-resources
+# Bulgarian Language Resources
