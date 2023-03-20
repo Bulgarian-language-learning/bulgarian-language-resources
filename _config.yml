@@ -1,3 +1,10 @@
 remote_theme: pages-themes/cayman@v0.2.0
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+      title: "Bulgarian Language Resources"
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
