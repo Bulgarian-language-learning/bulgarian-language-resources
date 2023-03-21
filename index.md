@@ -8,7 +8,7 @@
 - [rechnik.chitanka.info](https://rechnik.chitanka.info/)-The Best Bulgarian language dictionary
 -[Pons](http://bg.pons.com/)-Good Dictionary for context usage of words
 [Forvo](https://forvo.com/languages/bg/)-Hear Words pronunciation by people
-[Micmonster]()
+[Micmonster](https://micmonster.com/text-to-speech/bulgarian-bulgaria/)-Hear words pronounced by Kalina the robot
 
 
 # Video resources
