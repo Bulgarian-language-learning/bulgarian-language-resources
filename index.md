@@ -26,6 +26,7 @@
 - [MyLanguages](http://mylanguages.org/learn_bulgarian.php) - Cheatsheet-like examples
 - [Sample dialogues](http://www.slavic-net.org/)
 - [Teach yourself Bulgarian](https://www.academia.edu/34443394/Teach_Yourself_Bulgarian) - Book with many common phrases
+
 ---
 - [BGJargon](https://www.bgjargon.com/) - Street slang, common sayings. CAUTION: Contains swears too!!
 ---
