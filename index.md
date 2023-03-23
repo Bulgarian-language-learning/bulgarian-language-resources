@@ -41,6 +41,12 @@
 - [Books](https://www.bdz.bg/bg/c/knigi?page=5)
 - [Storytel](https://www.storytel.com/bg/bg/) - Bulgarian audio books
 # Video resources / Audio / Listening
+- [Radio Fresh](http://radiofresh.bg/) - Get into the vibe before learning. Or just chill after :)
+- [Binar](https://binar.bg/) - National Radio programmes and podcasts
+- [Radio NRJ](https://www.radioenergy.bg/)
+
+- [BNT News](https://bntnews.bg/) - News with text and robot text-to-speech
+- [Nova news](https://www.youtube.com/@novanews2851) - news emmissions
 - [Bulgarian Language Academy](https://www.youtube.com/@bulgarianlanguageacademy2587)
 - [BulgarianPod101](https://www.youtube.com/@BulgarianPod101)
 - [NoBlink movies](https://youtube.com/playlist?list=PLFAphr0cjsWYGCZzbCd5gcTBbtBrH2Yk4) - Short movies with subtitles
