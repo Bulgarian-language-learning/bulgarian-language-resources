@@ -50,3 +50,4 @@
 - ["Аз уча български" series](https://www.youtube.com/playlist?list=PLnEXbUSPy8Rslhj5xJeTb3mT9pqpLOl5N) - Sample conversations in Bulgarian
 - [Goethe Institute language resources](https://www.goethe-verlag.com/book2/EN/) - Vocabulary audio books
 - [Storytel](https://www.storytel.com/bg/bg/) - Bulgarian audio books
+- [Bulgarian language for foreigners (A1)]()
