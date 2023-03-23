@@ -28,8 +28,8 @@
 - [Teach yourself Bulgarian](https://www.academia.edu/34443394/Teach_Yourself_Bulgarian) - Book with many common phrases
 
 ---
+
 - [BGJargon](https://www.bgjargon.com/) - Street slang, common sayings. CAUTION: Contains swears too!!
----
 ## Books
 - [Chitanka](https://chitanka.info/) - Lots of free books to read
 - [Books](https://www.bdz.bg/bg/c/knigi?page=5)
