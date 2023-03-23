@@ -13,6 +13,7 @@
 - [Bulgarian Grammar in charts](https://www.amazon.com/Grammar-Matters-Bulgarian-Charts-ebook/dp/B00KVIB5CS)
 - [Езикови Справки](https://ibl.bas.bg/ezikovi_spravki/) - Questions from bulgarians themselves about tricky grammar rules. Answers by the Bulgarian Language Institute.
 - [LiveLingua courses](https://www.livelingua.com/courses/Bulgarian)
+- [gramatika-bg](https://gramatika-bg.com/) - More Grammar (hopefully) didn't hurt nobody.
 # Vocabulary resources
 - [Tobo Bulgarian](https://www.toboapp.com/)
 - [rechnik.chitanka.info](https://rechnik.chitanka.info/) - The best bulgarian language dictionary
@@ -29,6 +30,8 @@
 - [Family relatives](https://raw.githubusercontent.com/mystiquewolf/bulgarian-language-resources/main/static-resources/family-relatives.png)
 - [Quizlet Animals](https://quizlet.com/be/668055760/%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D0%B8-bg-en-flash-cards/)
 - [Quizlet Weather](https://quizlet.com/be/668464510/%D0%92%D1%80%D0%B5%D0%BC%D0%B5-bg-en-flash-cards/)
+- [Word finder](http://bg.words-finder.com/index.php) - Search for words beginning or ending with different morphemes. [EXAMPLE](http://bg.words-finder.com/index.php?end=%D0%BA%D0%B0%D0%B7%D0%B2%D0%B0%D0%BC).
+- [kak se pishe?](https://kaksepishe.com/) - How to write correctly. Useful for bulgarians too :)
 
 ---
 
