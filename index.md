@@ -51,3 +51,6 @@
 - [Goethe Institute language resources](https://www.goethe-verlag.com/book2/EN/) - Vocabulary audio books
 - [Storytel](https://www.storytel.com/bg/bg/) - Bulgarian audio books
 - [Bulgarian language for foreigners (A1)](https://www.youtube.com/playlist?list=PLQ3iCvL8uyKSu0P6WB6fdvMzsm22BB6FM)
+- [Приказки за деца](https://open.spotify.com/show/1o2riigiuhcISFq9rp1ajo) - Fairytales for children (we're all children deep inside)
+- [SBS Bulgarian](https://open.spotify.com/show/6YgJOdBkxhjtA39eAPXc3B?si=5dc1b206f8a4488d) - just some podcast
+- [Digital Drifters](https://open.spotify.com/show/5Yug73r6QF2PyYygdveREW) - Gamers podcast
