@@ -44,7 +44,7 @@
 - [Radio Fresh](http://radiofresh.bg/) - Get into the vibe before learning. Or just chill after :)
 - [Binar](https://binar.bg/) - National Radio programmes and podcasts
 - [Radio NRJ](https://www.radioenergy.bg/)
-
+- [Radio 1 Rock](https://www.radio1rock.bg/)
 - [BNT News](https://bntnews.bg/) - News with text and robot text-to-speech
 - [Nova news](https://www.youtube.com/@novanews2851) - news emmissions
 - [Bulgarian Language Academy](https://www.youtube.com/@bulgarianlanguageacademy2587)
