@@ -14,6 +14,7 @@
 - [Bulgarian Grammar in charts](https://www.amazon.com/Grammar-Matters-Bulgarian-Charts-ebook/dp/B00KVIB5CS)
 - [Езикови Справки](https://ibl.bas.bg/ezikovi_spravki/) - Questions from bulgarians themselves about tricky grammar rules. Answers by the Bulgarian Language Institute.
 - [LiveLingua courses](https://www.livelingua.com/courses/Bulgarian)
+- [BruLingua](https://learn.brulingua.be/) - A short A1 (or below) course. It is important to use post code 1200 when registering and select that you're a Brussels Civil Servant.
 - [gramatika-bg](https://gramatika-bg.com/) - More Grammar (hopefully) didn't hurt nobody.
 # Vocabulary resources
 - [Tobo Bulgarian](https://www.toboapp.com/)
