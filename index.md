@@ -19,6 +19,7 @@
 # Vocabulary resources
 - [Tobo Bulgarian](https://www.toboapp.com/)
 - [rechnik.chitanka.info](https://rechnik.chitanka.info/) - The best bulgarian language dictionary
+- [Wiktionary](https://en.wiktionary.org/wiki/%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%D0%B9) - Wiktionary
 - [Pons](http://bg.pons.com/) - Good dictionary for context usage of words
 - [Forvo](https://forvo.com/languages/bg/) - Hear words pronunciation by people
 - [Micmonster](https://micmonster.com/text-to-speech/bulgarian-bulgaria/) - Hear words pronounced by Kalina the robot
