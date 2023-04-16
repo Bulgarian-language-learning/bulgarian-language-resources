@@ -41,7 +41,7 @@
 - [BGJargon](https://www.bgjargon.com/) - Street slang, common sayings. CAUTION: Contains swears too!!
 ## Books
 - [Chitanka](https://chitanka.info/) - Lots of free books to read
-- [Books](https://www.bdz.bg/bg/c/knigi?page=5)
+- [Books](https://www.bdz.bg/bg/c/knigi)
 - [Storytel](https://www.storytel.com/bg/bg/) - Bulgarian audio books
 # Video resources / Audio / Listening
 - [Radio Fresh](http://radiofresh.bg/) - Get into the vibe before learning. Or just chill after :)
