@@ -63,3 +63,5 @@
 - [Приказки за деца](https://open.spotify.com/show/1o2riigiuhcISFq9rp1ajo) - Fairytales for children (we're all children deep inside)
 - [SBS Bulgarian](https://open.spotify.com/show/6YgJOdBkxhjtA39eAPXc3B?si=5dc1b206f8a4488d) - just some podcast
 - [Digital Drifters](https://open.spotify.com/show/5Yug73r6QF2PyYygdveREW) - Gamers podcast
+# Paid courses with teachers
+- [iTalki](https://www.italki.com/en) - I can recommend **only** iTalki
