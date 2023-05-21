@@ -50,6 +50,8 @@
 - [Radio 1 Rock](https://www.radio1rock.bg/)
 - [BNT News](https://bntnews.bg/) - News with text and robot text-to-speech
 - [Nova news](https://www.youtube.com/@novanews2851) - news broadcasts
+- [EON TV](https://bg.eon.tv/)
+- [Elemental TV](https://www.elemental.tv/)
 - [Bulgarian Language Academy](https://www.youtube.com/@bulgarianlanguageacademy2587)
 - [BulgarianPod101](https://www.youtube.com/@BulgarianPod101)
 - [NoBlink movies](https://youtube.com/playlist?list=PLFAphr0cjsWYGCZzbCd5gcTBbtBrH2Yk4) - Short movies with subtitles
