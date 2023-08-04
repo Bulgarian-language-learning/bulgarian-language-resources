@@ -2,6 +2,7 @@
 # Grammar resources
 - [Wikipedia](https://en.wikipedia.org/wiki/Bulgarian_language)
 - [Bulgarian alphabet](https://www.omniglot.com/writing/bulgarian.htm) - We use the Cyrillic alphabet
+- [How to write letters](https://www.youtube.com/watch?v=BDMKunbrIc0&list=PLCiZTQRHm-4Oid3Or1JLltgeYuW268cSO&index=4) - handwritten and print letters.
 - [101 Languages](https://www.101languages.net/bulgarian/)
 - [Bulgaro](https://www.bulgaro.io/) - the free version gives access to all grammar lessons and to some of the vocabulary practices.
 - [Ucha.se](https://ucha.se/videos/balgarski-ezik/) - School Lessons In Bulgarian for Bulgarian school pupils
@@ -22,7 +23,7 @@
 - [Wiktionary](https://en.wiktionary.org/wiki/%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%B5%D0%B9) - Wiktionary
 - [Pons](http://bg.pons.com/) - Good dictionary for context usage of words
 - [Forvo](https://forvo.com/languages/bg/) - Hear words pronunciation by people
-- [Micmonster](https://micmonster.com/text-to-speech/bulgarian-bulgaria/) - Hear words pronounced by Kalina the robot
+- [Micmonster](https://micmonster.com/text-to-speech/bulgarian-bulgaria/) - Hear words pronounced by Kalina the robot. Might put the stress on the wrong letter for some words so take with a grain of salt.
 - [BulgarianPod101](https://www.bulgarianpod101.com/blog/) - Vocabulary course and a blog with useful vocabulary examples/phrases.
 - [Tatoeba](https://tatoeba.org/en/sentences/show_all_in/bul/eng) - Sample sentences, contextual usage of words
 - [FSI Language Course](https://www.fsi-language-courses.org/fsi-bulgarian-basic-course/) - dialogs, drills and exercises
