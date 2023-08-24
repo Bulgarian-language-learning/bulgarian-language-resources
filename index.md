@@ -3,6 +3,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Bulgarian_language)
 - [Bulgarian alphabet](https://www.omniglot.com/writing/bulgarian.htm) - We use the Cyrillic alphabet
 - [How to write letters](https://www.youtube.com/watch?v=BDMKunbrIc0&list=PLCiZTQRHm-4Oid3Or1JLltgeYuW268cSO&index=4) - handwritten and print letters.
+- [How to write letters 2](https://www.youtube.com/watch?v=FHuJLVrxqQI&list=PLXMQ7tD9OnUx7EO2zOoU0hWQhRYWiY2Tq) - One more tutorial
 - [101 Languages](https://www.101languages.net/bulgarian/)
 - [Bulgaro](https://www.bulgaro.io/) - the free version gives access to all grammar lessons and to some of the vocabulary practices.
 - [Ucha.se](https://ucha.se/videos/balgarski-ezik/) - School Lessons In Bulgarian for Bulgarian school pupils
