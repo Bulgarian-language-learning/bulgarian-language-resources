@@ -5,7 +5,7 @@
 - [How to write letters](https://www.youtube.com/watch?v=BDMKunbrIc0&list=PLCiZTQRHm-4Oid3Or1JLltgeYuW268cSO&index=4) - handwritten and print letters.
 - [How to write letters 2](https://www.youtube.com/watch?v=FHuJLVrxqQI&list=PLXMQ7tD9OnUx7EO2zOoU0hWQhRYWiY2Tq) - One more tutorial
 - [101 Languages](https://www.101languages.net/bulgarian/)
-- [Bulgaro](https://www.bulgaro.io/) - the free version gives access to all grammar lessons and to some of the vocabulary practices.
+- [Bulgaro](https://www.bulgaro.io/) - the free version gives access to all grammar lessons and to some of the vocabulary practices when logged out. Subscribing might also be a good deal to get Duolingo like lessons.
 - [Ucha.se](https://ucha.se/videos/balgarski-ezik/) - School Lessons In Bulgarian for Bulgarian school pupils
 - [UNHCR books specifically for refugees](https://www.unhcr.org/bg/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b8-%d0%bf%d0%be%d0%bc%d0%b0%d0%b3%d0%b0%d0%bb%d0%b0)
 - [Intensive Bulgarian vol. 1](https://www.amazon.com/Intensive-Bulgarian-Vol-Textbook-Reference/dp/0299167445) - Exhaustive grammar book for advanced learners
