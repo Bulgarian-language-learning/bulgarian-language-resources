@@ -13,6 +13,7 @@
 - [Intensive Bulgarian vol. 2](https://www.amazon.com/Intensive-Bulgarian-Vol-Textbook-Reference/dp/0299167542) - You guessed it, that's part 2
 - [Intensive Bulgarian audio supplement 2](https://www.amazon.com/Intensive-Bulgarian-Audio-Supplement-SPOKEN-WORD/dp/029925044X)
 - [A concise Bulgarian grammar book](https://inozmi.spilnotv.com/books/sprak/bg/stand_alone_bulgarian.pdf)
+- [Teach yourself Bulgarian](https://github.com/Bulgarian-language-learning/bulgarian-language-resources/blob/main/Teach_Yourself_Bulgarian.pdf?raw=true) = A good book
 - [Bulgarian Grammar in charts](https://www.amazon.com/Grammar-Matters-Bulgarian-Charts-ebook/dp/B00KVIB5CS)
 - [Езикови Справки](https://ibl.bas.bg/ezikovi_spravki/) - Questions from bulgarians themselves about tricky grammar rules. Answers by the Bulgarian Language Institute.
 - [LiveLingua courses](https://www.livelingua.com/courses/Bulgarian)
