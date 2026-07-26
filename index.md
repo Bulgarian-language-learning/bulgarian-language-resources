@@ -2,6 +2,8 @@
 # Grammar resources
 - [Wikipedia](https://en.wikipedia.org/wiki/Bulgarian_language)
 - [Bulgarian alphabet](https://www.omniglot.com/writing/bulgarian.htm) - We use the Cyrillic alphabet
+- [Bulgarian vs Russian cyrillic](https://cyrillic.bgweb.bg/en/) - The Russians changed the alphabet, but we use both versions. You can't go wrong with either, but i do feel that the Bulgarian letters are more beautiful. When writing on paper, some people write in cursive, which is a third way of writing, besides the Bulgarian and Russian letters displayed here.
+- - [Bulgarian handwritten alphabet video](https://www.youtube.com/watch?v=fKnsmFhWUS4) - When writing on paper, some people write in a style called cursive/handwritten/ръкописно, which differs from the printed style above and is a third way of writing, besides the Bulgarian and Russian letters displayed above. Some people mix the cursive/handwritten style for some of the letters with printed style for the rest of the letters.
 - [How to write letters](https://www.youtube.com/watch?v=BDMKunbrIc0&list=PLCiZTQRHm-4Oid3Or1JLltgeYuW268cSO&index=4) - handwritten and print letters.
 - [How to write letters 2](https://www.youtube.com/watch?v=FHuJLVrxqQI&list=PLXMQ7tD9OnUx7EO2zOoU0hWQhRYWiY2Tq) - One more tutorial
 - [101 Languages](https://www.101languages.net/bulgarian/)
